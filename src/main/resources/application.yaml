@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Spring Boot Application Deployment
+
+server:
+  port: 8089
